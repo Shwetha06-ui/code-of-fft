@@ -1,2 +1,0 @@
-# code-of-fft
-code
